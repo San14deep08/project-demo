@@ -1,3 +1,4 @@
 add employee
 add hr
 take care of functions
+taken care of database and server

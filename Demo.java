@@ -6,5 +6,7 @@ public class Demo {
         Scanner sc = new Scanner(System.in);
         String  s= sc.nextLine();
         System.out.println(s);
+        System.out.println(s);
+        System.out.println(s);
     }
 }
